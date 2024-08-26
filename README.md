@@ -1,3 +1,5 @@
+**MODULE 12 CHALLENGE**
+
 This project is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL.
 
 ![image](https://github.com/user-attachments/assets/d68f9573-e8ed-4c2f-b035-72fa63c98d39)
